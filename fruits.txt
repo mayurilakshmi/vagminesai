@@ -2,9 +2,15 @@ welcome to fruits
 Apple
 kiwi
 
+
 glass
 juicer
 
 
 
 end of te story
+
+
+
+only fruits
+
