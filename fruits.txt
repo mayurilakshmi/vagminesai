@@ -1,6 +1,3 @@
 welcome to fruits
 Apple
 kiwi
-lychee
-cherry
-banana
